@@ -1,0 +1,762 @@
+[
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]

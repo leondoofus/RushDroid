@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="android.appdroid.MainActivity"
+    android:background="#000000">
+    <android.rushdroid.model.GameView
+        android:id="@+id/gameView"
+        android:layout_width="320dp"
+        android:layout_height="320dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ff0000"
+        android:text="Back"
+        android:textColor="#ffffff"
+        android:onClick="onClickBack"
+        android:id="@+id/buttonBack"
+        android:layout_alignBottom="@+id/gameView"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#440087"
+        android:text="Reset"
+        android:textColor="#ffffff"
+        android:onClick="onClickReset"
+        android:id="@+id/buttonReset"
+        android:layout_alignBottom="@+id/gameView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#0026ff"
+        android:text="Next"
+        android:textColor="#ffffff"
+        android:onClick="onClickNext"
+        android:id="@+id/buttonNext"
+        android:layout_alignTop="@+id/gameView"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Move : 0"
+        android:textColor="#ffffff"
+        android:id="@+id/move"
+        android:layout_alignTop="@+id/gameView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Time : 00 : 00 : 00"
+        android:textColor="#ffffff"
+        android:id="@+id/clock"
+        android:layout_below="@+id/move"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>

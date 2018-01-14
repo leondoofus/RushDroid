@@ -1,0 +1,2263 @@
+[
+    {
+        "outputFile": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 63,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 63,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 63,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\poubelle\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 63,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 63,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 63,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_derniere_seance_leon\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 63,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\users\\nfs\\Etu6\\3202626\\2I013\\TME10_2_30mars\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 63,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/res/merged/debug/values-land/values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 63,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 63,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme_current\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/res/merged/debug/values-land/values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 63,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/home/luong/AndroidStudioProjects/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 63,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 63,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu9\\3504859\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 63,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\nfs\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 63,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme7_2eme\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 63,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\avant_TME7\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/res/merged/debug/values-land/values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 63,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 63,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme11_lundi\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 63,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/home/luong/Bureau/v5/RushDroidVlad/D:\\users\\Etu6\\3202626\\2I013\\apres_TME11_mer\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\RushDroid\\D:\\home\\luong\\AndroidStudioProjects\\avant_TME7\\RushDroid\\D:\\01_vlad\\local_UPMC_2015-2016_sem2\\2i013\\apres_tme6\\AndroidStudioProjects\\RushDroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            }
+        ]
+    }
+]
